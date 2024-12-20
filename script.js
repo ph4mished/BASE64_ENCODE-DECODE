@@ -8,7 +8,7 @@ function btn(){
 document.getElementById("output").value = encode;
 }
    
-function decode(){
+function dec(){
   let x = document.getElementById("input").value;
   
   let decode = atob(x);
