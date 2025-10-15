@@ -1,2 +1,2 @@
 # BASE64_ENCODE-DECODE
-![hi](img/base64.xcf)
+![hi](img/base_64.xcf)
